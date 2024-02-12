@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ashroomy FE  dev
-- 👀 I’m interested in  frontend, rust, scuba , fungi, books and hiking
+- 👀 I’m interested in  React, Typescript, Python, Rust, 3D animation, scuba , fungi, books and hiking
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
